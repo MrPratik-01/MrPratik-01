@@ -1,76 +1,50 @@
-## 🛠️ Tech Stack
+<div align="center">
 
-### 💻 Languages
+# 👋 Hey, I'm Pratik
+
+### `Java Backend Developer` • `Spring Boot` • `Microservices`
+
+Building things, breaking things, fixing things.  
+**Currently turning ☕ into code.**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cs,js,html,css" />
+  <a href="https://github.com/MrPratik-01">
+    <img src="https://img.shields.io/github/followers/MrPratik-01?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/MrPratik-01?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-informational?style=for-the-badge" />
+  </a>
 </p>
 
-- ☕ Java — Core
-- 🟣 C# — Learning
-- 🟨 JavaScript — Learning / Familiar
+</div>
 
 ---
 
-### ⚙️ Backend Development
+## 🧠 Who Am I?
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,dotnet" />
-</p>
+```java
+public class Pratik {
 
-**Java Ecosystem**
-- Spring
-- Spring Boot
-- Spring MVC
-- Spring Data JPA
-- Hibernate
-- REST APIs
-- Microservices
+    String role = "Backend Developer";
 
-**.NET Ecosystem**
-- C#
-- .NET
-- ASP.NET Core
-- Entity Framework Core
-- REST APIs
+    String[] coreStack = {
+        "Java",
+        "Spring",
+        "Spring Boot",
+        "Microservices",
+        "MySQL"
+    };
 
----
+    String[] exploring = {
+        "React",
+        "C#",
+        ".NET"
+    };
 
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-- MySQL
-- SQL
-- JPA / Hibernate
-- Entity Framework Core
-
----
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,js" />
-</p>
-
-- React — Currently Learning
-- JavaScript
-- HTML
-- CSS
-
----
-
-### 🔧 Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,maven,docker,postman,idea,vscode" />
-</p>
-
-- Git & GitHub
-- Maven
-- Docker
-- Postman
-- IntelliJ IDEA
-- VS Code
+    String[] interests = {
+        "Backend Architecture",
+        "REST APIs",
+        "System Design",
+        "Clean Code"
+    };
+}
